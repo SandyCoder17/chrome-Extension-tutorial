@@ -1,0 +1,6 @@
+{
+    "name":"hello world",
+    "description":"this is my first chrome extension",
+    "version":"1.0.0.0",
+    "manifest_version":2
+}

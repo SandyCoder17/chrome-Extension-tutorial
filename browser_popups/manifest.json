@@ -1,0 +1,15 @@
+{
+    "name":"popup demo",
+    "description":"provide a demo of popup.",
+    "version":"1.0.0.0",
+    "manifest_version":2,
+    "icons":{
+        "16":"logos/16x16.png",
+        "48":"logos/48x48.png",
+        "128":"logos/128x128.png"
+    },
+    "browser_action":{
+        "default_title":"demo popup html",
+        "default_popup":"index.html"
+    }
+}

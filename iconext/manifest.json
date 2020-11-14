@@ -1,0 +1,11 @@
+{
+    "name":"icon explanation",
+    "description":"demo of icon in chrome extension",
+    "manifest_version":2,
+    "version":"1.0.0.0",
+    "icons":{
+        "16":"logos/16.png",
+        "48":"logos/48.png",
+        "128":"logos/128.png"
+    }
+}
